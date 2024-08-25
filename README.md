@@ -1,4 +1,5 @@
 HI THERE, I'M AKSHAY 👋
+---------------------
 
 Welcome to my GitHub profile! I'm a passionate UI/UX design aspirant currently pursuing a B.Tech degree. I’m excited about creating intuitive and aesthetically pleasing user experiences and constantly learning and evolving in the field of design.
 
