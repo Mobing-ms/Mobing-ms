@@ -24,7 +24,8 @@ https://www.linkedin.com/in/akshay-m-nair-8b7013301?utm_source=share&utm_campaig
 .Twitter
 https://x.com/Akshay_Divyaa?t=jI19dE4F7PSKXU1lvlwa_A&s=09
 
-💬 Ask Me About
+💬 ASK ME ABOUT
+  --------------
 
 .UI/UX design principles
 
@@ -33,6 +34,7 @@ https://x.com/Akshay_Divyaa?t=jI19dE4F7PSKXU1lvlwa_A&s=09
 .Best practices for user research and usability testing
 
 🛠️ TECHNOLOGIES & TOOLS
+  ----------------------
 
 .Design Tools: Figma
 .Languages: HTML, CSS, JavaScript,Java
