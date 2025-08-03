@@ -37,8 +37,8 @@ https://x.com/Akshay_Divyaa?t=jI19dE4F7PSKXU1lvlwa_A&s=09
 🛠️ TECHNOLOGIES & TOOLS
   ----------------------
 
-.Design Tools: Figma
-.Languages: HTML, CSS, JavaScript,Java
+.Design Tools: Figma,Flutter
+.Languages: HTML, CSS, JavaScript,Java,Dart
 
 
 Feel free to explore my repositories and don’t hesitate to reach out if you have any questions or just want to connect!
