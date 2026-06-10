@@ -29,7 +29,7 @@ Designer • Developer • Data Engineer
 
 # 👨‍💻 About Me
 
-<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8d08-4f50-8c5f-5739a9f2b8d2.gif">
+<img align="right" width="280" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 ### Hey there! 👋
 
@@ -181,15 +181,15 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 <p align="center">
 
 <a href="https://www.linkedin.com/in/akshay-m-nair-8b7013301">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://akshay-m-nair.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Akshay_Divyaa">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
