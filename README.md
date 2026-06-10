@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C853,100:64DD17&text=Akshay%20M%20Nair&fontColor=FFFFFF&fontSize=65&fontAlignY=40&animation=fadeIn&desc=Designer%20|%20Developer%20|%20Data%20Engineer&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF4655,100:0F1923&text=Akshay%20M%20Nair&fontColor=FFFFFF&fontSize=65&fontAlignY=40&animation=fadeIn&desc=Designer%20|%20Developer%20|%20Data%20Engineer&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Designer+%7C+Developer+%7C+Data+Engineer;Building+Digital+Experiences;Building+SkyTrack+Data+Warehouse;Creating+Data-Driven+Solutions;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=900&lines=Designer+%7C+Developer+%7C+Data+Engineer;Building+Digital+Experiences;Building+SkyTrack+Data+Warehouse;Creating+Data-Driven+Solutions;Always+Learning+Always+Building"/>
 
 </div>
 
@@ -76,15 +76,11 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ### 📊 Data & Analytics
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mobing-ms&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/ETL-Pipelines-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Warehouse-2E7D32?style=for-the-badge"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobing-ms&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -134,7 +130,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mobing-ms&theme=merko&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mobing-ms&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -144,7 +140,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mobing-ms&theme=algolia&no-frame=true&margin-w=15&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mobing-ms&theme=onestar&no-frame=true&margin-w=15&row=1&column=6"/>
 
 </p>
 ---
@@ -153,7 +149,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mobing-ms&theme=merko&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mobing-ms&bg_color=0F1923&color=FF4655&line=FF4655&point=FFFFFF&area=true&hide_border=true"/>
 
 </p>
 
@@ -188,15 +184,15 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 <p align="center">
 
 <a href="https://www.linkedin.com/in/akshay-m-nair-8b7013301">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FF4655?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://akshay-m-nair.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0F1923?style=for-the-badge&logo=vercel&logoColor=FF4655"/>
 </a>
 
 <a href="https://x.com/Akshay_Divyaa">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-0F1923?style=for-the-badge&logo=x&logoColor=FF4655"/>
 </a>
 
 </p>
