@@ -30,17 +30,19 @@ Designer • Developer • Data Engineer
 
 # 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
 ### Hey there! 👋
 
 I'm **Akshay M Nair**, a B.Tech student passionate about building impactful digital solutions.
 
-My journey began with design, evolved into development, and is now expanding into the world of data engineering and analytics.
+My journey began with design, evolved into development, and is now expanding into Data Engineering, Analytics, and Business Intelligence.
 
-Currently, I'm building an end-to-end **SkyTrack Data Warehouse** project while continuously exploring new technologies and improving my technical skills.
+Currently, I'm building **SkyTrack Data Warehouse**, an end-to-end data engineering project focused on ETL pipelines, data modeling, and analytics.
 
 ### 🚀 What I'm Currently Working On
 
-- ✈️ Building **SkyTrack Data Warehouse**
+- ✈️ Building SkyTrack Data Warehouse
 - 📊 Learning Data Engineering & ETL Pipelines
 - 📈 Exploring Power BI & Analytics
 - 💻 Developing Web Applications
@@ -49,7 +51,7 @@ Currently, I'm building an end-to-end **SkyTrack Data Warehouse** project while 
 
 ### 💡 Fun Fact
 
-I enjoy combining **Design + Development + Data** to create solutions that are both visually appealing and technically powerful.
+I enjoy combining Design, Development, and Data to create solutions that are both visually appealing and technically powerful.
 
 ---
 
@@ -121,9 +123,9 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mobing-ms&show_icons=true&theme=merko&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=merko&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobing-ms&layout=compact&theme=merko&hide_border=true"/>
 
 </p>
 
@@ -133,7 +135,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=merko&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mobing-ms&theme=merko&hide_border=true"/>
 
 </p>
 
@@ -143,7 +145,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mobing-ms&theme=matrix&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -203,7 +205,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00C853&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Mobing-ms&label=PROFILE+VIEWS&color=00C853&style=for-the-badge"/>
 
 </p>
 
