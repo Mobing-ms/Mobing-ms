@@ -29,7 +29,7 @@ Designer • Developer • Data Engineer
 
 # 👨‍💻 About Me
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212744275-bf542850-3dfc-4c3b-a3e7-6a2c4a4b8c6b.gif">
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8d08-4f50-8c5f-5739a9f2b8d2.gif">
 
 ### Hey there! 👋
 
