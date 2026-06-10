@@ -29,7 +29,6 @@ Designer • Developer • Data Engineer
 
 # 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 ### Hey there! 👋
 
@@ -199,6 +198,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 # 💭 Quote
 
 > "Turning ideas into meaningful digital experiences through design, development, and data."
+<img align="centre" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 ---
 
