@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Akshay%20M%20Nair&fontSize=60&fontAlignY=40&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C853,100:64DD17&text=Akshay%20M%20Nair&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Designer+%7C+Developer+%7C+Data+Enthusiast;Building+Digital+Experiences;Building+SkyTrack+Data+Warehouse;Creating+Data-Driven+Solutions;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Designer+%7C+Developer+%7C+Data+Engineer;Building+Digital+Experiences;Building+SkyTrack+Data+Warehouse;Creating+Data-Driven+Solutions;Always+Learning+Always+Building"/>
 
 </div>
 
@@ -11,6 +11,7 @@ Designer • Developer • Data Engineer
 </h3>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/akshay-m-nair-8b7013301">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -22,6 +23,7 @@ Designer • Developer • Data Engineer
 <a href="https://x.com/Akshay_Divyaa">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
+
 </p>
 
 ---
@@ -34,7 +36,7 @@ Designer • Developer • Data Engineer
 
 I'm **Akshay M Nair**, a B.Tech student passionate about building impactful digital solutions.
 
-My journey started with design, evolved into development, and is now expanding into the world of data engineering and analytics.
+My journey began with design, evolved into development, and is now expanding into the world of data engineering and analytics.
 
 Currently, I'm building an end-to-end **SkyTrack Data Warehouse** project while continuously exploring new technologies and improving my technical skills.
 
@@ -81,42 +83,49 @@ I enjoy combining **Design + Development + Data** to create solutions that are b
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/ETL-Pipelines-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-Pipelines-00C853?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data-Warehouse-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Warehouse-2E7D32?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## ✈️ Featured Project
+# ✈️ Featured Project
 
-### SkyTrack Data Warehouse
+## SkyTrack Data Warehouse
 
-An end-to-end Data Warehouse project designed to transform airline operational data into meaningful business insights through structured data modeling, ETL pipelines, and analytics.
+<div align="center">
 
-🔹 **Architecture:** Acquisition Layer → Processing Layer → Analytics Layer
+### 📥 Acquisition Layer
 
-🔹 **Technologies:** SQL Server, ETL Pipelines, Power BI
+⬇️
 
-🔹 **Key Areas:**
-- Data Acquisition
-- Data Transformation
-- Data Modeling
-- Data Warehousing
-- Business Intelligence
-- Analytics & Reporting
+### ⚙️ Processing Layer
 
-🔹 **Current Status:** Active Development 🚀
+⬇️
+
+### 📊 Analytics Layer
+
+</div>
+
+<br>
+
+**Technologies:** SQL Server • ETL Pipelines • Power BI • Data Modeling
+
+An end-to-end Data Warehouse solution focused on transforming airline operational data into meaningful business insights through modern data engineering practices.
+
+🚀 **Status:** Active Development
+
 ---
 
 # 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=merko&hide_border=true"/>
 
 </p>
 
@@ -126,17 +135,7 @@ An end-to-end Data Warehouse project designed to transform airline operational d
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=merko&hide_border=true"/>
 
 </p>
 
@@ -146,17 +145,7 @@ An end-to-end Data Warehouse project designed to transform airline operational d
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -168,10 +157,10 @@ An end-to-end Data Warehouse project designed to transform airline operational d
 
 | Area | Focus |
 |--------|--------|
-| 🎨 Design | UI/UX & Visual Design |
 | 💻 Development | Frontend Applications |
-| 📊 Data | Data Warehousing & ETL |
+| 📊 Data Engineering | ETL & Warehousing |
 | 📈 Analytics | Power BI & Reporting |
+| 🎨 Design | UI/UX & Visual Design |
 | 📷 Creativity | Photography & Media |
 
 </div>
@@ -180,13 +169,31 @@ An end-to-end Data Warehouse project designed to transform airline operational d
 
 # 🌟 Beyond Technology
 
-```text
-📷 Photography
-🎨 Creative Design
-🎵 Music
-🌍 Exploring New Ideas
-🚀 Building Meaningful Projects
-```
+- 📷 Photography
+- 🎨 Creative Design
+- 🎵 Music
+- 🌍 Exploring New Ideas
+- 🚀 Building Meaningful Projects
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akshay-m-nair-8b7013301">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://akshay-m-nair.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://x.com/Akshay_Divyaa">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
 
 ---
 
@@ -198,14 +205,14 @@ An end-to-end Data Warehouse project designed to transform airline operational d
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00C853&style=for-the-badge"/>
 
 </p>
 
 <div align="center">
 
-### ⚡ Always Learning • Always Building ⚡
+### 🟢 Always Learning • Always Building 🟢
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C853,100:64DD17"/>
