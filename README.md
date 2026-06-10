@@ -1,45 +1,196 @@
-HI THERE, I'M AKSHAY 👋
----------------------
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate UI/UX design aspirant currently pursuing a B.Tech degree at Sree Chitra Thirunal College of Engineering and Technology. I’m excited about creating intuitive and aesthetically pleasing user experiences and constantly learning and evolving in the field of design.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Akshay%20M%20Nair&fontSize=60&fontAlignY=40&animation=fadeIn"/>
 
-🚀 ABOUT ME
-   ---------
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Designer+%7C+Developer+%7C+Data+Enthusiast;Building+Digital+Experiences;Building+SkyTrack+Data+Warehouse;Creating+Data-Driven+Solutions;Always+Learning+Always+Building"/>
 
-🎓 B.Tech Student
+</div>
 
-🎨 Passionate about UI/UX design
+<h3 align="center">
+Designer • Developer • Data Enthusiast
+</h3>
 
-💡 Always exploring new design tools and methodologies
+---
 
-📚 Currently learning more about web designing like figma,css and html,js..
+## 👨‍💻 About Me
 
-🌐 CONNECT WITH ME
-  -----------------
+```yaml
+Name: Akshay M Nair
 
-.LinkedIn:
-https://www.linkedin.com/in/akshay-m-nair-8b7013301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Education:
+  B.Tech Student
 
-.My personal portfolio: https://akshay-m-nair.vercel.app
+Current Focus:
+  - Data Engineering
+  - Frontend Development
+  - Data Warehousing
+  - Power BI
 
-.Twitter
-https://x.com/Akshay_Divyaa?t=jI19dE4F7PSKXU1lvlwa_A&s=09
+Currently Building:
+  - SkyTrack Data Warehouse
 
-💬 ASK ME ABOUT
-  --------------
+Interests:
+  - Design
+  - Development
+  - Analytics
+  - Photography
 
-.UI/UX design principles
+Goal:
+  Build impactful solutions that combine
+  Design + Development + Data
+```
 
-.Design tools like Figma, Sketch, and Adobe XD
+---
 
-.Best practices for user research and usability testing
+## 🚀 Current Journey
 
-🛠️ TECHNOLOGIES & TOOLS
-  ----------------------
+- ✈️ Building SkyTrack Data Warehouse
+- 📊 Learning Data Modeling & ETL Pipelines
+- 💻 Improving Frontend Development Skills
+- 📈 Exploring Power BI & Analytics
+- 🎨 Designing Better User Experiences
 
-.Design Tools: Figma,Flutter
-.Languages: HTML, CSS, JavaScript, Java, Dart, Python, C
+---
 
+## ⚡ Tech Stack
 
-Feel free to explore my repositories and don’t hesitate to reach out if you have any questions or just want to connect!
+### Languages
 
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c"/>
+
+</p>
+
+### Design & Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+### Data & Analytics
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+
+![ETL](https://img.shields.io/badge/ETL-Pipelines-orange?style=for-the-badge)
+
+![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-purple?style=for-the-badge)
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## ✈️ Featured Project
+
+### SkyTrack Data Warehouse
+
+```text
+📥 Acquisition Layer
+⚙️ Processing Layer
+📊 Analytics Layer
+
+✔ SQL Server
+✔ ETL Pipelines
+✔ Data Modeling
+✔ Power BI Reporting
+✔ Data Warehouse Architecture
+```
+
+---
+
+## 🎯 Areas of Interest
+
+```text
+🎨 Design Systems
+💻 Frontend Development
+📊 Data Engineering
+📈 Business Intelligence
+📷 Photography
+🚀 Technology & Innovation
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akshay-m-nair-8b7013301">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://akshay-m-nair.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://x.com/Akshay_Divyaa">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Quote
+
+> "Turning ideas into meaningful digital experiences through design, development, and data."
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+<div align="center">
+
+### ⚡ Always Learning • Always Building ⚡
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
