@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C853,100:64DD17&text=Akshay%20M%20Nair&fontSize=60&fontAlignY=40&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C853,100:64DD17&text=Akshay%20M%20Nair&fontColor=FFFFFF&fontSize=65&fontAlignY=40&animation=twinkling&desc=Designer%20|%20Developer%20|%20Data%20Engineer&descAlignY=60&descSize=20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Designer+%7C+Developer+%7C+Data+Engineer;Building+Digital+Experiences;Building+SkyTrack+Data+Warehouse;Creating+Data-Driven+Solutions;Always+Learning+Always+Building"/>
 
