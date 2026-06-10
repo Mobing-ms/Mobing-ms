@@ -10,123 +10,88 @@
 Designer • Developer • Data Enthusiast
 </h3>
 
----
+<p align="center">
+<a href="https://www.linkedin.com/in/akshay-m-nair-8b7013301">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-## 👨‍💻 About Me
+<a href="https://akshay-m-nair.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-```yaml
-Name: Akshay M Nair
-
-Education:
-  B.Tech Student
-
-Current Focus:
-  - Data Engineering
-  - Frontend Development
-  - Data Warehousing
-  - Power BI
-
-Currently Building:
-  - SkyTrack Data Warehouse
-
-Interests:
-  - Design
-  - Development
-  - Analytics
-  - Photography
-
-Goal:
-  Build impactful solutions that combine
-  Design + Development + Data
-```
+<a href="https://x.com/Akshay_Divyaa">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+</p>
 
 ---
 
-## 🚀 Current Journey
+# 👨‍💻 About Me
 
-- ✈️ Building SkyTrack Data Warehouse
-- 📊 Learning Data Modeling & ETL Pipelines
-- 💻 Improving Frontend Development Skills
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+### Hey there! 👋
+
+I'm **Akshay M Nair**, a B.Tech student passionate about building impactful digital solutions.
+
+My journey started with design, evolved into development, and is now expanding into the world of data engineering and analytics.
+
+Currently, I'm building an end-to-end **SkyTrack Data Warehouse** project while continuously exploring new technologies and improving my technical skills.
+
+### 🚀 What I'm Currently Working On
+
+- ✈️ Building **SkyTrack Data Warehouse**
+- 📊 Learning Data Engineering & ETL Pipelines
 - 📈 Exploring Power BI & Analytics
-- 🎨 Designing Better User Experiences
+- 💻 Developing Web Applications
+- 🎨 Creating Better Digital Experiences
+- 📷 Capturing Stories Through Photography
+
+### 💡 Fun Fact
+
+I enjoy combining **Design + Development + Data** to create solutions that are both visually appealing and technically powerful.
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### Languages
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,python,java,c"/>
+</p>
+
+### 🎨 Design & Creative Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
 
 </p>
 
-### Design & Development
+### 📊 Data & Analytics
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
 
-</p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### Data & Analytics
+<img src="https://img.shields.io/badge/ETL-Pipelines-orange?style=for-the-badge"/>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-
-![ETL](https://img.shields.io/badge/ETL-Pipelines-orange?style=for-the-badge)
-
-![Data Warehouse](https://img.shields.io/badge/Data-Warehouse-purple?style=for-the-badge)
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Data-Warehouse-purple?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 Featured Project
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-## ✈️ Featured Project
-
-### SkyTrack Data Warehouse
+## ✈️ SkyTrack Data Warehouse
 
 ```text
 📥 Acquisition Layer
@@ -142,40 +107,87 @@ Goal:
 
 ---
 
-## 🎯 Areas of Interest
-
-```text
-🎨 Design Systems
-💻 Frontend Development
-📊 Data Engineering
-📈 Business Intelligence
-📷 Photography
-🚀 Technology & Innovation
-```
-
----
-
-## 🌐 Connect With Me
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/akshay-m-nair-8b7013301">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="https://akshay-m-nair.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://x.com/Akshay_Divyaa">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 💭 Quote
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🎯 Areas of Interest
+
+<div align="center">
+
+| Area | Focus |
+|--------|--------|
+| 🎨 Design | UI/UX & Visual Design |
+| 💻 Development | Frontend Applications |
+| 📊 Data | Data Warehousing & ETL |
+| 📈 Analytics | Power BI & Reporting |
+| 📷 Creativity | Photography & Media |
+
+</div>
+
+---
+
+# 🌟 Beyond Technology
+
+```text
+📷 Photography
+🎨 Creative Design
+🎵 Music
+🌍 Exploring New Ideas
+🚀 Building Meaningful Projects
+```
+
+---
+
+# 💭 Quote
 
 > "Turning ideas into meaningful digital experiences through design, development, and data."
 
@@ -183,7 +195,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
