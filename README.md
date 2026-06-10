@@ -30,7 +30,7 @@ Designer • Developer • Data Engineer
 
 # 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
 ### Hey there! 👋
 
