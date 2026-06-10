@@ -30,8 +30,6 @@ Designer • Developer • Data Engineer
 
 # 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
 ### Hey there! 👋
 
 I'm **Akshay M Nair**, a B.Tech student passionate about building impactful digital solutions.
