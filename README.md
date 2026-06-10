@@ -29,7 +29,7 @@ Designer • Developer • Data Engineer
 
 # 👨‍💻 About Me
 
-<img align="right" width="220" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" width="220" src="https://media.tenor.com/2uyENRmiUt0AAAAC/cat-computer.gif">
 
 ### Hey there! 👋
 
