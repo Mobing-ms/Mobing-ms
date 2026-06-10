@@ -55,6 +55,10 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 # ⚡ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,python,java,c,figma&perline=6" />
+</p>
+
 ### 💻 Languages
 
 <p>
@@ -138,12 +142,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://github.com/Mobing-ms/Mobing-ms/blob/output/github-contribution-grid-snake.svg" />
-</p>
----
 
 # 🏆 GitHub Trophies
 
