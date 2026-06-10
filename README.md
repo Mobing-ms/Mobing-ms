@@ -55,10 +55,6 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 # ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,python,java,c,figma&perline=6" />
-</p>
-
 ### 💻 Languages
 
 <p>
@@ -90,7 +86,6 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 <img src="https://img.shields.io/badge/Data_Warehouse-0F1923?style=for-the-badge"/>
 
 </p>
-
 ---
 
 # ✈️ Featured Project
