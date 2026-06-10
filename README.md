@@ -17,11 +17,11 @@ Designer • Developer • Data Engineer
 </a>
 
 <a href="https://akshay-m-nair.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-FF4655?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Akshay_Divyaa">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
@@ -29,7 +29,6 @@ Designer • Developer • Data Engineer
 ---
 
 # 👨‍💻 About Me
-
 
 ### Hey there! 👋
 
@@ -76,11 +75,15 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ### 📊 Data & Analytics
 
-<p align="center">
+<p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mobing-ms&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobing-ms&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/ETL-Pipelines-FF4655?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Warehouse-0F1923?style=for-the-badge"/>
 
 </p>
 
@@ -118,9 +121,9 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mobing-ms&show_icons=true&theme=merko&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mobing-ms&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobing-ms&layout=compact&theme=merko&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobing-ms&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -143,6 +146,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 <img src="https://github-profile-trophy.vercel.app/?username=Mobing-ms&theme=onestar&no-frame=true&margin-w=15&row=1&column=6"/>
 
 </p>
+
 ---
 
 # 📊 Contribution Graph
@@ -152,6 +156,8 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mobing-ms&bg_color=0F1923&color=FF4655&line=FF4655&point=FFFFFF&area=true&hide_border=true"/>
 
 </p>
+
+---
 
 # 🎯 Areas of Interest
 
@@ -202,20 +208,21 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 # 💭 Quote
 
 > "Turning ideas into meaningful digital experiences through design, development, and data."
-<img align="centre" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
+<img align="center" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mobing-ms&label=PROFILE+VIEWS&color=00C853&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Mobing-ms&label=PROFILE+VIEWS&color=FF4655&style=for-the-badge"/>
 
 </p>
 
 <div align="center">
 
-### 🟢 Always Learning • Always Building 🟢
+### 🔴 Always Learning • Always Building 🔴
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C853,100:64DD17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF4655,100:0F1923"/>
