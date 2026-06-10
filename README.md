@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-Designer • Developer • Data Enthusiast
+Designer • Developer • Data Engineer
 </h3>
 
 <p align="center">
@@ -89,22 +89,25 @@ I enjoy combining **Design + Development + Data** to create solutions that are b
 
 ---
 
-# 🚀 Featured Project
+## ✈️ Featured Project
 
-## ✈️ SkyTrack Data Warehouse
+### SkyTrack Data Warehouse
 
-```text
-📥 Acquisition Layer
-⚙️ Processing Layer
-📊 Analytics Layer
+An end-to-end Data Warehouse project designed to transform airline operational data into meaningful business insights through structured data modeling, ETL pipelines, and analytics.
 
-✔ SQL Server
-✔ ETL Pipelines
-✔ Data Modeling
-✔ Power BI Reporting
-✔ Data Warehouse Architecture
-```
+🔹 **Architecture:** Acquisition Layer → Processing Layer → Analytics Layer
 
+🔹 **Technologies:** SQL Server, ETL Pipelines, Power BI
+
+🔹 **Key Areas:**
+- Data Acquisition
+- Data Transformation
+- Data Modeling
+- Data Warehousing
+- Business Intelligence
+- Analytics & Reporting
+
+🔹 **Current Status:** Active Development 🚀
 ---
 
 # 📈 GitHub Analytics
