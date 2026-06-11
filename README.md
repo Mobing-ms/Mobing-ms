@@ -96,11 +96,8 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 <h2 align="left">✈️ SkyTrack Data Warehouse</h2>
 
 <p align="center">
-<img width="60" src="https://github.githubassets.com/images/mona-loading-default.gif">
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code+New&size=15&duration=3500&pause=1000&color=FF4655&center=true&vCenter=true&width=850&lines=Under+Construction;Loading+Chunks;Collecting+Flight+Data...;Processing+Resources;Crafting+Business+Insights;" /> 
+<img width="60" src="https://github.githubassets.com/images/mona-loading-default.gif"><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=FF4655&center=true&vCenter=true&width=850&lines=Under+Construction;Loading+Chunks;Collecting+Flight+Data...;Processing+Resources;Crafting+Business+Insights;" />
 </p>
 <br>
 
