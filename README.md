@@ -57,7 +57,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ### 💻 Languages
 
-```html
+
 <p align="center">
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" /></a>
@@ -66,58 +66,46 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
 </p>
-```
+
 
 ### 🚀 Frameworks & Libraries
 
-```html
+
 <p align="center">
 <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
 </p>
-```
+
 
 ### 🎨 Design & Creative Tools
 
-```html
+
 <p align="center">
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
 <a href="https://www.canva.com/"><img width="48" src="https://img.icons8.com/color/48/canva.png" /></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
-</p>
-```
-
-### 🛠️ Development Tools & Platforms
-
-```html
-<p align="center">
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 <a href="https://jupyter.org/"><img width="48" src="https://cdn.simpleicons.org/jupyter/F37626" /></a>
 </p>
-```
 
 ### 🗄️ Databases
 
-```html
 <p align="center">
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server"><img width="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" /></a>
 </p>
-```
+ 
 
 ### 📊 Data Engineering & Analytics
 
-```html
 <p align="center">
 <a href="https://powerbi.microsoft.com/"><img width="48" src="https://img.icons8.com/color/48/power-bi.png" /></a>
 <a href="https://learn.microsoft.com/en-us/sql/integration-services/"><img width="48" src="https://img.icons8.com/color/48/data-configuration.png" /></a>
 <a href="https://en.wikipedia.org/wiki/Data_warehouse"><img width="48" src="https://img.icons8.com/color/48/database.png" /></a>
 </p>
-```
+
 # ✈️ Featured Project
 
 ## SkyTrack Data Warehouse
