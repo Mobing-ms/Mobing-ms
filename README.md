@@ -64,15 +64,17 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" /></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" /></a>
 <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" /></a>
-<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
 </p>
 
 ### 🎨 Design & Creative Tools
 
 <p align="center">
-<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
-<a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/canva.png" /></a>
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://jupyter.org/"><img width="48" src="https://cdn.simpleicons.org/jupyter/F37626" /></a>
+<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
 </p>
 
 ### 📊 Data & Analytics
