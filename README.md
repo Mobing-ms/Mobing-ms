@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF4655,100:0F1923&text=Akshay%20M%20Nair&fontColor=FFFFFF&fontSize=65&fontAlignY=40&animation=fadeIn&desc=Designer%20|%20Developer%20|%20Data%20Engineer&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=900&lines=Designer+%7C+Developer+%7C+Data+Engineer;Building+Digital+Experiences;Building+SkyTrack+Data+Warehouse;Creating+Data-Driven+Solutions;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Designer+%7C+Developer+%7C+Data+Engineer;Building+Digital+Experiences;Building+SkyTrack+Data+Warehouse;Creating+Data-Driven+Solutions;Always+Learning+Always+Building"/>
 
 </div>
 
@@ -67,20 +67,12 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
 </p>
 
-
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks & Creative Tools
 
 
 <p align="center">
 <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-</p>
-
-
-### 🎨 Design & Creative Tools
-
-
-<p align="center">
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
 <a href="https://www.canva.com/"><img width="48" src="https://img.icons8.com/color/48/canva.png" /></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
