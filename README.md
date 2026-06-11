@@ -100,7 +100,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Loading+Chunks...;Under+Construction...;Collecting+Flight+Data...;Processing+Resources...;Crafting+Business+Insights...;SkyTrack+Data+Warehouse+Ready!" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=15&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Loading+Chunks...;Under+Construction...;Collecting+Flight+Data...;Processing+Resources...;Crafting+Business+Insights...;SkyTrack+Data+Warehouse+Ready!" /> 
 </p>
 <br>
 
