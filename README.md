@@ -136,7 +136,11 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mobing-ms&theme=onestar&no-frame=true&margin-w=15&row=1&column=6"/>
+<img src="https://img.shields.io/badge/Pull_Shark-🦈-FF4655?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Quickdraw-⚡-FF4655?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pair_Extraordinaire-🤝-FF4655?style=for-the-badge"/>
 
 </p>
 
