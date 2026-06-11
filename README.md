@@ -96,7 +96,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 <h2 align="left">✈️ SkyTrack Data Warehouse</h2>
 
 <p align="center">
-<img width="120" src="https://github.githubassets.com/images/mona-loading-default.gif">
+<img width="60" src="https://github.githubassets.com/images/mona-loading-default.gif">
 </p>
 
 <br>
@@ -104,10 +104,6 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 **Technologies:** SQL Server • ETL Pipelines • Power BI • Data Modeling
 
 An end-to-end Data Warehouse solution focused on transforming airline operational data into meaningful business insights through modern data engineering practices.
-
-🚀 **Status:** Active Development
-
----
 
 🚀 **Status:** Active Development
 
