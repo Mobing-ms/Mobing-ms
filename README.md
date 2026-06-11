@@ -134,7 +134,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 # 🏆 GitHub Trophies
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://img.shields.io/badge/🦈_Pull_Shark-GitHub_Achievement-FF4655?style=for-the-badge" />
