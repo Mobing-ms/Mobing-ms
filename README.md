@@ -57,30 +57,12 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ### 💻 Languages
 
-### 💻 Languages
-
-<p>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python"/>
-</a>
-
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java"/>
-</a>
-
-<a href="https://en.cppreference.com/w/c" target="_blank">
-<img src="https://skillicons.dev/icons?i=c"/>
-</a>
-
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" /></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" /></a>
 </p>
 
 ### 🎨 Design & Creative Tools
