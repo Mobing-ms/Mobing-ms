@@ -63,6 +63,8 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" /></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" /></a>
+<a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" /></a>
+<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
 </p>
 
 ### 🎨 Design & Creative Tools
