@@ -103,20 +103,11 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 # ✈️ Featured Project
 
 ## SkyTrack Data Warehouse
+<h2 align="center">✈️ SkyTrack Data Warehouse</h2>
 
-<div align="center">
-
-### 📥 Acquisition Layer
-
-⬇️
-
-### ⚙️ Processing Layer
-
-⬇️
-
-### 📊 Analytics Layer
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=FF4655&center=true&vCenter=true&width=900&lines=📥+Acquisition+Layer+➜+⚙️+Processing+Layer+➜+📊+Analytics+Layer" />
+</p>
 
 <br>
 
