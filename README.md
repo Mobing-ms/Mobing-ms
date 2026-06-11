@@ -75,16 +75,11 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ### 📊 Data & Analytics
 
-<p>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/ETL-Pipelines-FF4655?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Warehouse-0F1923?style=for-the-badge"/>
-
+<p align="center">
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://powerbi.microsoft.com/"><img width="48" src="https://img.icons8.com/color/48/power-bi.png" /></a>
+<a href="https://learn.microsoft.com/en-us/sql/integration-services/"><img width="48" src="https://img.icons8.com/color/48/data-configuration.png" /></a>
+<a href="https://en.wikipedia.org/wiki/Data_warehouse"><img width="48" src="https://img.icons8.com/color/48/database.png" /></a>
 </p>
 ---
 
