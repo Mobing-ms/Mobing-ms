@@ -96,10 +96,11 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 <h2 align="left">✈️ SkyTrack Data Warehouse</h2>
 
+<h2 align="left">✈️ SkyTrack Data Warehouse</h2>
+
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=📥+Acquisition+Layer;⚙️+Processing+Layer;📊+Analytics+Layer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=📥+Acquisition+Layer+➜+⚙️+Processing+Layer+➜+📊+Analytics+Layer" />
 </p>
-<br>
 
 **Technologies:** SQL Server • ETL Pipelines • Power BI • Data Modeling
 
