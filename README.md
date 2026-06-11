@@ -97,7 +97,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 <p align="center">
 <img width="60" src="https://github.githubassets.com/images/mona-loading-default.gif"><br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=FF4655&center=true&vCenter=true&width=850&lines=Under+Construction;Loading+Chunks;Collecting+Flight+Data...;Processing+Resources;Crafting+Business+Insights;" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins+Mono&size=15&duration=5500&pause=800&color=FF4655&center=true&vCenter=true&width=850&lines=Under+Construction;Loading+Chunks;Collecting+Flight+Data;Processing+Resources;Crafting+Business+Insights;" />
 </p>
 <br>
 
