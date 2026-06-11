@@ -154,19 +154,17 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 ---
 
-# 🎯 Areas of Interest
+<h2 align="center">🎯 Areas of Interest</h2>
 
-<div align="center">
+<p align="center">
 
-| Area | Focus |
-|--------|--------|
-| 💻 Development | Frontend Applications |
-| 📊 Data Engineering | ETL & Warehousing |
-| 📈 Analytics | Power BI & Reporting |
-| 🎨 Design | UI/UX & Visual Design |
-| 📷 Creativity | Photography & Media |
+💻 <b>Development</b> •
+📊 <b>Data Engineering</b> •
+📈 <b>Analytics</b> •
+🎨 <b>Design</b> •
+📷 <b>Photography</b>
 
-</div>
+</p>
 
 ---
 
