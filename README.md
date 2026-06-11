@@ -57,7 +57,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ### 💻 Languages
 
-<p align="center">
+<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
@@ -67,14 +67,10 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ### 🎨 Design & Creative Tools
 
-<p>
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
-
+<p align="left">
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
+<a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/canva.png" /></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
 </p>
 
 ### 📊 Data & Analytics
