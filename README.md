@@ -90,22 +90,16 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 <a href="https://jupyter.org/"><img width="48" src="https://cdn.simpleicons.org/jupyter/F37626" /></a>
 </p>
 
-### 🗄️ Databases
+### 📊 Data Engineering & Buisness Inteligence
 
 <p align="center">
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server"><img width="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.icons8.com/color/48/microsoft-sql-server.png" /></a>
+<a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/power-bi.png" /></a>
+<a href="https://learn.microsoft.com/en-us/sql/integration-services/"><img src="https://img.icons8.com/color/48/data-configuration.png" /></a>
+<a href="https://en.wikipedia.org/wiki/Data_warehouse"><img src="https://img.icons8.com/color/48/database.png" /></a>
 </p>
- 
-
-### 📊 Data Engineering & Analytics
-
-<p align="center">
-<a href="https://powerbi.microsoft.com/"><img width="48" src="https://img.icons8.com/color/48/power-bi.png" /></a>
-<a href="https://learn.microsoft.com/en-us/sql/integration-services/"><img width="48" src="https://img.icons8.com/color/48/data-configuration.png" /></a>
-<a href="https://en.wikipedia.org/wiki/Data_warehouse"><img width="48" src="https://img.icons8.com/color/48/database.png" /></a>
-</p>
-
+---
 # ✈️ Featured Project
 
 ## SkyTrack Data Warehouse
