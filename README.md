@@ -57,7 +57,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ### 💻 Languages
 
-<p align="left">
+<p align="centre">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
@@ -67,7 +67,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ### 🎨 Design & Creative Tools
 
-<p align="left">
+<p align="centre">
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
 <a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/canva.png" /></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
