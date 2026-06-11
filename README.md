@@ -97,9 +97,8 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 <h2 align="left">✈️ SkyTrack Data Warehouse</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Loading+Chunks...;Collecting+Flight+Data...;Processing+Resources...;Crafting+Business+Insights...;SkyTrack+Data+Warehouse+Ready!" />
-</p>
-**Technologies:** SQL Server • ETL Pipelines • Power BI • Data Modeling
+<img src="https://github.com/user-attachments/assets/2f4e4f0a-8c4c-4a7d-bf47-0d1e7a5d9f48" width="600">
+</p>hnologies:** SQL Server • ETL Pipelines • Power BI • Data Modeling
 
 An end-to-end Data Warehouse solution focused on transforming airline operational data into meaningful business insights through modern data engineering practices.
 
