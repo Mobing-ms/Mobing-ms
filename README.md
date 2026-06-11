@@ -153,8 +153,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 </p>
 
 ---
-
-<h2 align="center">🎯 Areas of Interest</h2>
+# 🎯 Areas of Interest
 
 <p align="center">
 
