@@ -99,8 +99,8 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 <a href="https://learn.microsoft.com/en-us/sql/integration-services/"><img src="https://img.icons8.com/color/48/data-configuration.png" /></a>
 <a href="https://en.wikipedia.org/wiki/Data_warehouse"><img src="https://img.icons8.com/color/48/database.png" /></a>
 </p>
+
 ---
-# ✈️ Featured Project
 
 <h2 align="left">✈️ SkyTrack Data Warehouse</h2>
 
