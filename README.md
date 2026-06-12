@@ -103,7 +103,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 <img width="60" src="https://github.githubassets.com/images/mona-loading-default.gif"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=2500&pause=1000&color=888888&center=true&vCenter=true&width=450&lines=%5B%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%5D+Loading+Chunks...;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%5D+Processing...;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%5D+Analyzing...;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%5D+Ready..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=2500&pause=1000&color=FFFF99&center=true&vCenter=true&width=450&lines=%5B%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%5D+Loading+Chunks...;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%5D+Processing...;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%5D+Analyzing...;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%5D+Ready..." />
 </p>
 
 ---
