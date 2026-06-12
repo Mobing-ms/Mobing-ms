@@ -58,7 +58,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 ### 💻 Languages
 
 
-<p align="center">
+<p align="left">
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" /></a>
 <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" /></a>
@@ -70,7 +70,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 ### 🚀 Frameworks & Creative Tools
 
 
-<p align="center">
+<p align="left">
 <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
@@ -84,7 +84,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ### 📊 Data Engineering & Buisness Inteligence
 
-<p align="center">
+<p align="left">
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.icons8.com/color/48/microsoft-sql-server.png" /></a>
 <a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/power-bi.png" /></a>
@@ -95,7 +95,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 ---
 <h2 align="left">✈️ SkyTrack Data Warehouse</h2>
 
-<p align="center">
+<p align="left">
 <img width="60" src="https://github.githubassets.com/images/mona-loading-default.gif"><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=900&lines=Loading+Chunks...;Mining+Flight+Data...;Processing+Resources...;Crafting+Business+Insights...;SkyTrack+Data+Warehouse+Ready..." />
 </p>
@@ -186,7 +186,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 # 💭 Quote
 
-> "Turning ideas into meaningful digital experiences through design, development, and data."
+> "Building, learning, and evolving across the ever-changing landscape of technology."
 
 <img align="center" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
