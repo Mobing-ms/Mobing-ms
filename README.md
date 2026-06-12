@@ -103,7 +103,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 <img width="60" src="https://github.githubassets.com/images/mona-loading-default.gif"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=10&duration=2900&pause=1500&color=FFFF99&center=true&vCenter=true&width=900&lines=Loading+Chunks;Mining+Flight+Data;Processing+Resources;Crafting+Business+Insights;SkyTrack+Data+Warehouse+Ready!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=10&duration=3400&pause=1500&color=FFFF99&center=true&vCenter=true&width=900&lines=Loading+Chunks;Mining+Flight+Data;Processing+Resources;Crafting+Business+Insights;SkyTrack+Data+Warehouse+Ready!" />
 </p>
 
 ---
