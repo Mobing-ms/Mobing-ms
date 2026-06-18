@@ -1,16 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0:FF4655,100:0F1923&text=Akshay%20M%20Nair&fontColor=FFFFFF&fontSize=75&fontAlignY=40&animation=fadeIn&desc=Designer%20|%20Developer%20|%20Data%20Engineer&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=400&color=0:FF4655,100:0F1923&text=Akshay%20M%20Nair&fontColor=FFFFFF&fontSize=75&fontAlignY=45&desc=Designer%20|%20Developer%20|%20Data%20Engineer&descAlignY=62&descSize=20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Designer+%7C+Developer+%7C+Data+Engineer;Building+Digital+Experiences;Building+SkyTrack+Data+Warehouse;Creating+Data-Driven+Solutions;Always+Learning+Always+Building"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,flutter,react,figma,git,github,vscode&theme=dark" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mobing-ms&bg_color=0F1923&color=FFFFFF&line=FF4655&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -33,10 +25,6 @@ Designer • Developer • Data Engineer
 </a>
 
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF4655,100:0F1923"/>
-
-
 ---
 
 # 👨‍💻 About Me
