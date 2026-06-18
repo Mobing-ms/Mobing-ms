@@ -99,7 +99,7 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 An end-to-end Data Warehouse solution focused on transforming airline operational data into meaningful business insights through modern data engineering practices.
 
-🚀 **Status:** Active Development
+🚀 **Status:** Completed
 
 <p align="center">
 <img width="60" src="https://github.githubassets.com/images/mona-loading-default.gif"><br>
