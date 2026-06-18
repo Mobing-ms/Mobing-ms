@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=350&color=0:000000,100:0F1923&text=%3E%20Akshay%20M%20Nair_&fontColor=00FF88&fontSize=65&fontAlignY=42&animation=fadeIn&desc=Designer%20|%20Developer%20|%20Data%20Engineer&descAlignY=62&descSize=20&descColor=00FF88"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0:FF4655,100:0F1923&text=Akshay%20M%20Nair&fontColor=FFFFFF&fontSize=75&fontAlignY=40&animation=fadeIn&desc=Designer%20|%20Developer%20|%20Data%20Engineer&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=%24+whoami;Akshay+M+Nair;%24+roles;Designer+%7C+Developer+%7C+Data+Engineer;%24+current_project;SkyTrack+Data+Warehouse;%24+status;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Designer+%7C+Developer+%7C+Data+Engineer;Building+Digital+Experiences;Building+SkyTrack+Data+Warehouse;Creating+Data-Driven+Solutions;Always+Learning+Always+Building"/>
 
 </div>
 
