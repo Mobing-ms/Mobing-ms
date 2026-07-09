@@ -110,7 +110,6 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mobing-ms&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>`{=html}
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobing-ms&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>`{=html}
 
 
@@ -120,8 +119,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mobing-ms&theme=tokyonight&hide_border=true"/>`{=html}
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mobing-ms&theme=tokyonight&hide_border=true"/>
 </p>
 
 
@@ -129,7 +127,7 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mobing-ms&bg_color=0F1923&color=FF4655&line=FF4655&point=FFFFFF&area=true&hide_border=true"/>`{=html}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mobing-ms&bg_color=0F1923&color=FF4655&line=FF4655&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 # 🎯 Areas of Interest
