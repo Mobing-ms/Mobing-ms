@@ -92,13 +92,23 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 </p>
 
 ---
-<h2 align="left">✈️ SkyTrack Data Warehouse</h2>
+<h2 align="left">🚗 AxioGo – Autonomous Data Intelligence Platform</h2>
 
-**Technologies:** SQL Server • ETL Pipelines • Power BI • Data Modeling
+**Technologies:** Databricks • PySpark • SQL • Delta Lake • Unity Catalog • Power BI • Agentic AI
 
-An end-to-end Data Warehouse solution focused on transforming airline operational data into meaningful business insights through modern data engineering practices.
+AxioGo is an Autonomous Data Intelligence Platform where AI agents collaborate to automate the complete data lifecycle—from ingestion and transformation to 
+governance, analytics, and intelligent decision-making. Built on the Databricks Lakehouse Platform, AxioGo enables organizations to transform complex data into scalable, real-time business intelligence.
 
-🚀 **Status:** Completed
+### 🚀 Key Features
+
+- 🤖 AI-powered DataOps Agents
+- ⚡ Intelligent ETL Pipeline Automation
+- 📈 Real-time Analytics & Dashboards
+- 🔍 Data Quality & Anomaly Detection
+- 🏛️ Medallion Lakehouse Architecture
+- 🚗 Automotive Data Intelligence
+
+🚀 **Status:** Actively Developing
 
 <p align="center">
 <img width="60" src="https://github.githubassets.com/images/mona-loading-default.gif"><br>
