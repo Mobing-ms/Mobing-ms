@@ -107,6 +107,12 @@ An end-to-end Data Warehouse solution focused on transforming airline operationa
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mobing-ms/Mobing-ms/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
