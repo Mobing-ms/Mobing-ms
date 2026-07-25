@@ -123,12 +123,6 @@ governance, analytics, and intelligent decision-making. Built on the Databricks 
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mobing-ms/Mobing-ms/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
