@@ -52,6 +52,12 @@ I enjoy combining Design, Development, and Data to create solutions that are bot
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mobing-ms/Mobing-ms/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 # ⚡ Tech Stack
 
 ### 💻 Languages
