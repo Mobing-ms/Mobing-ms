@@ -31,26 +31,30 @@ Designer • Developer • Data Engineer
 
 ### Hey there! 👋
 
-I'm **Akshay M Nair**, a B.Tech student passionate about building impactful digital solutions.
+I'm **Akshay M Nair**, a B.Tech Computer Science student who enjoys turning ideas into products that are not only functional, but also feel great to use.
 
-My journey began with design, evolved into development, and is now expanding into Data Engineering, Analytics, and Business Intelligence.
+My journey started with **design and web development**, evolved into **data engineering and analytics**, and is now moving toward **AI-powered data systems**.
 
-Currently, I'm building **SkyTrack Data Warehouse**, an end-to-end data engineering project focused on ETL pipelines, data modeling, and analytics.
+Currently, I'm building **AxioGo** 🚀 — an Autonomous Data Intelligence Platform that brings together **Data Engineering, AI, Analytics, and Automation** to transform enterprise data into actionable intelligence.
 
-### 🚀 What I'm Currently Working On
+### 🚀 What I'm Currently Building
 
-- ✈️ Building SkyTrack Data Warehouse
-- 📊 Learning Data Engineering & ETL Pipelines
-- 📈 Exploring Power BI & Analytics
-- 💻 Developing Web Applications
-- 🎨 Creating Better Digital Experiences
-- 📷 Capturing Stories Through Photography
+* 🤖 **AxioGo** — an AI-powered Data Intelligence & DataOps platform
+* 🧠 Exploring **Agentic AI & intelligent automation**
+* ⚡ Building scalable data pipelines with **Databricks, PySpark & Delta Lake**
+* 🏗️ Designing **Lakehouse architectures & data models**
+* 📊 Turning data into insights with **Analytics & Power BI**
+* 💻 Building modern **web experiences & AI interfaces**
+* 🎨 Experimenting with **UI/UX and product design**
 
 ### 💡 Fun Fact
 
-I enjoy combining Design, Development, and Data to create solutions that are both visually appealing and technically powerful.
+I like working at the intersection of **Design × Data × Development × AI**.
 
----
+For me, building software isn't just about making things work — it's about making them **useful, intelligent, and enjoyable to use.** 🚀
+
+Always learning. Always building. Always shipping.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mobing-ms/Mobing-ms/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
